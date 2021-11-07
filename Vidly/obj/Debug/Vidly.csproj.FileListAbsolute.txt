@@ -72,6 +72,7 @@ E:\Code\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
 E:\Code\Vidly\Vidly\bin\Newtonsoft.Json.xml
 E:\Code\Vidly\Vidly\bin\Antlr3.Runtime.pdb
 E:\Code\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Code\Vidly\Vidly\obj\Debug\Vidly.csproj.AssemblyReference.cache
 E:\Code\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 E:\Code\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 E:\Code\Vidly\Vidly\obj\Debug\Vidly.dll
